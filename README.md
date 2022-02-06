@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tautvydaspe
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript on my own, java, R, matlab in the university
+- 🌱 I’m currently learning javascript on my own, c#, java, R, matlab in the university
 - 💞️ I’m looking to collaborate on different interesting projects
 - 📫 How to reach me tautvydaspe@gmail.com
 
