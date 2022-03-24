@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tautvydaspe
+- 👋 Hi, I’m Tautvydas Peleckis
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript on my own, c#, java, R, matlab in the university
 - 💞️ I’m looking to collaborate on different interesting projects
