@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tautvydas Peleckis
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, vue on my own, c#, java, R, matlab in the university
+- 👀 I’m a Front-End web development
 - 💞️ I’m looking to collaborate on different interesting projects
 - 📫 How to reach me tautvydaspe@gmail.com
 
