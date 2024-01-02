@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tautvydas Peleckis
-- 👀 I’m a Front-End web development
+- 👀 I’m a Front-End web developer
 - 💞️ I’m looking to collaborate on different interesting projects
 - 📫 How to reach me tautvydaspe@gmail.com
 
